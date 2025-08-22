@@ -19,7 +19,13 @@
     "password": "mancing",
     "expiresAt": "2025-08-29",
     "allowOffline": false
-  }
+  },
 
-  
+    {
+    "id": "61db727e34db68df",
+    "username": "dimas",
+    "password": "dimas666",
+    "expiresAt": "2026-08-23",
+    "allowOffline": false
+    }
 ]
