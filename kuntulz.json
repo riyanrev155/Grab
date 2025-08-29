@@ -30,6 +30,14 @@
     },
 
   {
+    "id": "7a91186c81bac658",
+    "username": "dimsthor",
+    "password": "dimas666",
+    "expiresAt": "2026-08-23",
+    "allowOffline": false
+    },
+
+  {
     "id": "f92d4e05fb6750ba",
     "username": "fadly",
     "password": "fadly123",
