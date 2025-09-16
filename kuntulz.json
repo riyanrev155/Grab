@@ -35,13 +35,20 @@
     "password": "dimas666",
     "expiresAt": "2026-08-23",
     "allowOffline": false
-    },
-
+    },  
   {
     "id": "f92d4e05fb6750ba",
     "username": "fadly",
     "password": "fadly123",
     "expiresAt": "2096-08-23",
+    "allowOffline": false
+  },
+
+  {
+    "id": "c532ac9f6c4b5ec4",
+    "username": "vigar",
+    "password": "vigar",
+    "expiresAt": "2025-10-17",
     "allowOffline": false
     }
 ]
